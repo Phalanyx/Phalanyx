@@ -1,6 +1,6 @@
 # 🌟 Welcome to **Phalanyx**'s GitHub Universe!  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0FB5FF&center=true&vCenter=true&width=435&lines=Creative+Coder+%7C+Passionate+Learner;Building+Projects+With+Purpose;Always+Up+For+A+Challenge!)
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0FB5FF&center=true&vCenter=true&width=435&lines=Creative+Coder+%7C+Passionate+Learner;Building+Projects+With+Purpose;Always+Up+For+A+Challenge!)
 
 ---
 
