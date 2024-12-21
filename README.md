@@ -4,9 +4,10 @@
 
 ---
 
-[![Phalanyx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phalanyx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phalanyx&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+<!--- [![Phalanyx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phalanyx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+--->
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phalanyx&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 ---
 
 ## 🛠️ Technologies & Tools
