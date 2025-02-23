@@ -42,7 +42,7 @@
 
 ## 🌐 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/albert-huynh-191099271/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=github&logoColor=white&style=flat)](https://yourportfolio.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=github&logoColor=white&style=flat)]([https://yourportfolio.com](https://albert-huynh-git-main-phalanyxs-projects.vercel.app/))  
 
 ---
 
