@@ -1,14 +1,16 @@
-# 🌟 I'm Albert, welcome to my Github!  
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/dd5427ba-9267-4253-a9e6-9ae8b704e27a" width="250px"/>
+    </td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?color=%2300AEEF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Albert+%F0%9F%91%8B;CS+Student+at+UofT+🎓;Full-Stack+Developer+🌍;" alt="Headline" width="100%"/> 
+      <br/>
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJyanN5NTRwMTJoZ2Q5eGZieG82ZGR5ZmllcXFjMmdxMHd4aDNqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" width="12.5%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?color=%2300AEEF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Albert+%F0%9F%91%8B;CS+Student+at+UofT+🎓;Full-Stack+Developer+🌍;" alt="Headline" width="70%"/> 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
-</div>
  🐍 &nbsp; My Commit History:
 
 <picture>
@@ -19,18 +21,12 @@
 <br><br>
 
 <div>
-  <img src="https://komarev.com/ghpvc/?username=oskip0906&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="views"/>
-  <a href="https://www.linkedin.com/in/oscar-shenglong-pang/">
+  <img src="https://komarev.com/ghpvc/?username=Phalanyx&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="views"/>
+  <a href="https://www.linkedin.com/in/albert-huynh-191099271/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/oskip123/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="mailto:oscar.pang050906@gmail.com">
+  <a href="mailto:alberthuynh.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
-  </a>
-  <a href="https://discordlookup.com/user/767525911695851550">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
 <br>
