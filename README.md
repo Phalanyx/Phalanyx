@@ -1,27 +1,56 @@
 # 🌟 I'm Albert, welcome to my Github!  
 
- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0FB5FF&center=true&vCenter=true&width=435&lines=Creative+Coder+%7C+Passionate+Learner;Building+Projects+With+Purpose;Always+Up+For+A+Challenge!)
+<div align="center">
 
----
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJyanN5NTRwMTJoZ2Q5eGZieG82ZGR5ZmllcXFjMmdxMHd4aDNqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" width="12.5%"/>
 
+<img src="https://readme-typing-svg.herokuapp.com?color=%2300AEEF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Albert+%F0%9F%91%8B;CS+Student+at+UofT+🎓;Full-Stack+Developer+🌍;" alt="Headline" width="70%"/> 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+</div>
+ 🐍 &nbsp; My Commit History:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oskip0906/oskip0906/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oskip0906/oskip0906/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br><br>
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=oskip0906&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="views"/>
+  <a href="https://www.linkedin.com/in/oscar-shenglong-pang/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/oskip123/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="mailto:oscar.pang050906@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
+  </a>
+  <a href="https://discordlookup.com/user/767525911695851550">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+<br>
+  
+## 💡 What I’m Up To:
+
+🔭 Working at IBM as a Software Developer.
+
+📚 In my third year at the University of Toronto specializing in Computer Science and Software Engineering.
+
+🤝 Always open to **collaborating** on exciting **projects**!
+
+-----
+
+<br>
 <!--- [![Phalanyx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phalanyx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 --->
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phalanyx&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 ---
-
-## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visualstudiocode&logoColor=white&style=flat)
-
----
-
 ## 🔥 Featured Projects
 ### 🖋️ [Scriptorium](https://github.com/Phalanyx/Scriptorium)
 > **An online code execution platform**: Write, run, and share your code in a seamless interface.  
@@ -37,12 +66,6 @@
 ## ⚡ Fun Stats
 ![Phalanyx's Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Phalanyx&theme=radical)  
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Phalanyx&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🌐 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/albert-huynh-191099271/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=github&logoColor=white&style=flat)](https://albert-huynh-git-main-phalanyxs-projects.vercel.app/)  
 
 ---
 
