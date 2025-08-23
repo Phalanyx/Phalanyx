@@ -51,10 +51,10 @@
 ### 🖋️ [Scriptorium](https://github.com/Phalanyx/Scriptorium)
 > **An online code execution platform**: Write, run, and share your code in a seamless interface.  
 
-### 🌍 [Climate Compass](https://github.com/Phalanyx/Climate-Compass)
+### 🌍 [Climate Compass](https://github.com/Phalanyx/ClimateCompass)
 > **Data-driven insights for sustainability**: Navigate climate challenges with smart tools.  
 
-### 🎮 [no.ff: League of Legends](https://github.com/Phalanyx/no-ff)
+### 🎮 [no.ff: League of Legends](https://github.com/no-ff/no.ff)
 > **Celebrating my gaming passion**: A unique take on the League of Legends experience.  
 
 ---
