@@ -33,7 +33,7 @@
   
 ## 💡 What I’m Up To:
 
-🔭 Working at IBM as a Software Developer.
+🔭 Working at IBM as a Software Developer. 
 
 📚 In my third year at the University of Toronto specializing in Computer Science and Software Engineering.
 
@@ -42,27 +42,7 @@
 -----
 
 <br>
-<!--- [![Phalanyx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phalanyx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+<!--- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phalanyx&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 --->
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phalanyx&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
----
-## 🔥 Featured Projects
-### 🖋️ [Scriptorium](https://github.com/Phalanyx/Scriptorium)
-> **An online code execution platform**: Write, run, and share your code in a seamless interface.  
 
-### 🌍 [Climate Compass](https://github.com/Phalanyx/ClimateCompass)
-> **Data-driven insights for sustainability**: Navigate climate challenges with smart tools.  
-
-### 🎮 [no.ff: League of Legends](https://github.com/no-ff/no.ff)
-> **Celebrating my gaming passion**: A unique take on the League of Legends experience.  
-
----
-
-## ⚡ Fun Stats
-![Phalanyx's Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Phalanyx&theme=radical)  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Phalanyx&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-⭐ **Thanks for stopping by! Let's collaborate and create something awesome.**  
